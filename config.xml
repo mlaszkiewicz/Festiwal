@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="pl.grupaekspert.scenadawna" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="pl.grupaekspert.scenadawna" version="1.0.3">
   <name>Scena Dawna 2019</name>
   <description>Festiwal Scena Dawna w Warszawie</description>
   <author href="http://deb.pl" email="michal@deb.pl">DEB.pl</author>
@@ -16,7 +16,7 @@
   <preference name="auto-hide-splash-screen" value="true"/>
   <preference name="AutoHideSplashScreen" value="true" />
   <preference name="disable-cursor" value="false"/>
-  <preference name="android-minSdkVersion" value="26"/>
+  <preference name="android-minSdkVersion" value="21"/>
   <preference name="android-installLocation" value="auto"/>
   <icon src="icon.png"/>
   <icon src="icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
